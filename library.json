@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-max30102-blood-oxygen-concentration-wrist-heart-rate-pulse",
+  "title": "max30102-blood-oxygen-concentration-wrist-heart-rate-pulse",
+  "keywords": "max30102-blood-oxygen-concentration-wrist-heart-rate-pulse, esp32, esp8266, arduino",
+  "description": "max30102-blood-oxygen-concentration-wrist-heart-rate-pulse plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-max30102-blood-oxygen-concentration-wrist-heart-rate-pulse/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-max30102-blood-oxygen-concentration-wrist-heart-rate-pulse/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
